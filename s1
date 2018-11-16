@@ -1,6 +1,10 @@
 This is the first update in dhruvik  s1
 orange
-This is from branch SDN
+<<<<<<< HEAD
+
+=======
+This is the line from auth for identification.
+>>>>>>> auth
 apple
 mango
 egg
